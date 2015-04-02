@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">云视(连锁店)</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_video_list">VideoListActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+	<string name="title_activity_charts">ChartsActivity</string>
+    <!-- login -->
+    <string name="login_success">登录成功</string>
+    <string name="login_ret_msg_error">登录数据异常</string>
+    <string name="login_password_error">用户密码错误</string>
+    <string name="login_username_error">用户名不存在</string>
+    <string name="login_account_overdue_error">账号已过期</string>
+    <string name="login_online_max_error">在线人数已达上限</string>
+    <string name="login_oem_overdue_error">OEM已到期</string>
+    <string name="login_server_error">服务器维护</string>
+    <string name="camera_out_of_date">摄像头过期</string>
+    <string name="camera_not_online">摄像头不在线</string>
+    <string name="login_connection_timeout_error">连接服务器超时</string>
+    <string name="login_videolist_timeout_error">获取列表超时</string>
+    <string name="login_qtk_connection_error">客流统计服务连接错误</string>
+	<string name="login_account_empty_error">请输入用户账号和密码</string>
+	<string name="login_cache_username">系统保存的用户名</string>
+	<string name="qkt_ip_and_port_not_exist">请配置客流统计IP地址与端口号</string>
+    <!-- video list -->
+    <string name="surveillance_list_fetch_error">获取数据失败</string>
+
+</resources>
